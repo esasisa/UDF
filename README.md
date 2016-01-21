@@ -29,7 +29,7 @@
       
             Open hive console and run following command
             create function upper_func as '<UDF class name>'
-            example - com.my.udf.Upper
+            example - com.my.udf.UpperCase
        
       5-	Test UDF  -
       
